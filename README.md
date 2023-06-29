@@ -1,6 +1,9 @@
 # task5
+Write as many test cases as you can for a given scenario using Excel sheet. The Excel sheet should include the following columns:
 ![29 1](https://github.com/ajaypal321/task5/assets/136219483/edb6635d-cc53-4aec-ad98-4e51201c8b67)
 ![29 2](https://github.com/ajaypal321/task5/assets/136219483/70d2f487-086e-41de-b8f9-553e47bb0a4a)
+
+Write the key points on Test Scenario, Test Case, Test Strategy and Plan, Test Summary Report
 
 Test Scenario:
 - Test Scenario is a high-level description of a specific functionality or feature to be tested.
